@@ -1,4 +1,4 @@
-#Argon Pro Dashboard For Laravel Framework 9.x and Up. RBAC(spatie), Localization, Socialite(github,google), flash message 
+# Argon Pro Dashboard For Laravel Framework 9.x and Up. RBAC(spatie), Localization, Socialite(github,google), flash message 
 
 ![version](https://img.shields.io/badge/version-1.0.12-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/argon.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/argon/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/argon.svg?maxAge=2592000)](https://github.com/laravel-frontend-presets/argon/issues?q=is%3Aissue+is%3Aclosed)
 
