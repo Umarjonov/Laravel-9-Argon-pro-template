@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b9243cb1-555d-43ee-9b39-f8445f7daa94" name="vesta admin">
+        <fileTransfer rootFolder="/home/admin/web" accessType="SFTP" host="185.196.214.21" port="30021" sshConfigId="3e185eef-a19e-41c3-b4fe-649786981236" sshConfig="admin@185.196.214.21:30021 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c6ab8cd6-9fa4-4df9-b723-235707d409ae" name="quramiz">
+        <fileTransfer rootFolder="/home/sqbcuz/quramiz.sqbc.uz" accessType="SFTP" host="server2.ahost.uz" port="30151" sshConfigId="c8c5e517-8025-4e4c-921e-ebeffe519243" sshConfig="sqbcuz@server2.ahost.uz:30151 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ff1bb945-6c20-41d8-b509-bb54a0669db5" name="e-pos">
+        <fileTransfer rootFolder="/home/u683625895/domains/e-pos.uz/public_html" accessType="SFTP" host="213.190.6.169" port="65002" sshConfigId="a4e49e01-8053-434a-a4b7-6c6fe424a659" sshConfig="u683625895@213.190.6.169:65002 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8d7368ac-3dcb-42cf-9855-7190856f9e9a" name="vestacp user">
+        <fileTransfer accessType="SFTP" host="185.196.214.21" port="30021" sshConfigId="51da06e8-6645-4fff-9073-99f2387e2315" sshConfig="user@185.196.214.21:30021 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
